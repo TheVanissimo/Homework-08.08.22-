@@ -1,0 +1,4 @@
+﻿  Tabulyaciya.cpp
+D:\VISUAL STUDIO PROJECTS\Tabulyaciya\Tabulyaciya\Tabulyaciya.cpp(1,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\VISUAL STUDIO PROJECTS\Tabulyaciya\Tabulyaciya\Tabulyaciya.cpp(6,9): warning C4101: x: неиспользованная локальная переменная
+  Tabulyaciya.vcxproj -> D:\VISUAL STUDIO PROJECTS\Tabulyaciya\x64\Debug\Tabulyaciya.exe
